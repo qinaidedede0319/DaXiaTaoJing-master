@@ -79,14 +79,14 @@
             </div>
 
             <div class="col-lg-6">
-
+                <a name="questions">
                 <div class="panel panel-default">
                     <div class="panel-body">
 
                         <div class="col-lg-3">
-                            <a name="questions">
+
                                 <span class="zg-gray-normal">提问</span><br><br>
-                            </a>
+
                         </div>
                         <div class="col-lg-6">
                         </div>
@@ -113,14 +113,17 @@
                         </div>
                     </div>
                 </div>
+                </a>
 
+
+                <a name="answer">
                 <div class="panel panel-default">
                     <div class="panel-body">
 
                         <div class="col-lg-3">
-                            <a name="answer">
+
                                 <span class="zg-gray-normal">回答</span><br><br>
-                            </a>
+
                         </div>
                         <div class="col-lg-6">
                         </div>
@@ -147,15 +150,17 @@
                         </div>
                     </div>
                 </div>
+                </a>
 
 
+                <a name="agree">
                 <div class="panel panel-default">
                     <div class="panel-body">
 
                         <div class="col-lg-3">
-                            <a name="agree">
+
                                 <span class="zg-gray-normal">赞同</span><br><br>
-                            </a>
+
                         </div>
                         <div class="col-lg-6">
                         </div>
@@ -182,16 +187,16 @@
                         </div>
                     </div>
                 </div>
+                </a>
 
-
-
+                <a name="collection">
                 <div class="panel panel-default">
                     <div class="panel-body">
 
                         <div class="col-lg-3">
-                            <a name="collection">
+
                                 <span class="zg-gray-normal">收藏</span><br><br>
-                            </a>
+
                         </div>
                         <div class="col-lg-6">
                         </div>
@@ -249,6 +254,8 @@
                                 </div>
                             </div>
                         </div>
+                </a>
+
 
                     </div>
 
